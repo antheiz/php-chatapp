@@ -30,7 +30,7 @@
 
 		var msg = {
 			'user': user,
-			'text': user + ' entered the room',
+			'text': user + ' bergabung ke grup',
 			'time': moment().format('hh:mm a')
 		};
 
